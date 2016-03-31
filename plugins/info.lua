@@ -1,6 +1,5 @@
 do
-local creed = 118682430
-
+local creed = 106789762
 local function setrank(msg, name, value) -- setrank function
   local hash = nil
   if msg.to.type == 'chat' then
